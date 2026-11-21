@@ -1,0 +1,107 @@
+mineral,production_stage,year,country,production_metric_tonnes,status,source_edition,source_url,source_note
+Gallium,primary low-purity,2021,China,423,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2021,Japan,3,published,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2021,Russia,5,published,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2021,South Korea,2,published,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2021,Ukraine,1,published,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2021,United States,0,published,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2021,World,434,published,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2022,China,540,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2022,Japan,3,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2022,Russia,5,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2022,South Korea,2,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2022,Ukraine,1,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2022,United States,0,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2022,World,550,estimated,2023,https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-gallium.pdf,
+Gallium,primary low-purity,2023,China,621,estimated,2025,https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gallium.pdf,
+Gallium,primary low-purity,2023,Japan,3,estimated,2025,https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gallium.pdf,
+Gallium,primary low-purity,2023,Russia,6,estimated,2025,https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gallium.pdf,
+Gallium,primary low-purity,2023,South Korea,3,estimated,2025,https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gallium.pdf,
+Gallium,primary low-purity,2023,United States,0,published,2025,https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gallium.pdf,
+Gallium,primary low-purity,2023,World,633,published,2025,https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gallium.pdf,
+Gallium,primary low-purity,2024,China,839,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2024,Japan,3,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2024,Russia,6,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2024,United States,0,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2024,World,848,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2025,China,900,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2025,Japan,3,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2025,Russia,6,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2025,United States,0,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Gallium,primary low-purity,2025,World,900,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gallium.pdf,
+Indium,refinery,2018,Belgium,22,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,Canada,58,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,China,300,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,France,40,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,Japan,70,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,Russia,5,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,South Korea,235,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,United States,0,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2018,World,741,published,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,Belgium,20,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,Canada,60,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,China,300,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,France,50,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,Japan,75,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,Russia,5,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,South Korea,240,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,United States,0,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2019,World,760,estimated,2020,https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-indium.pdf,
+Indium,refinery,2020,Belgium,20,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,Canada,66,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,China,540,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,France,38,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,Japan,66,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,Russia,5,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,South Korea,210,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,United States,0,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2020,World,960,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,Belgium,20,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,Canada,60,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,China,530,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,France,35,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,Japan,60,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,Russia,5,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,South Korea,200,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,United States,0,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2021,World,920,estimated,2022,https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-indium.pdf,
+Indium,refinery,2022,Belgium,19,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,Canada,39,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,China,670,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,France,19,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,Japan,66,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,Russia,5,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,South Korea,180,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,United States,0,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,Uzbekistan,1,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2022,World,999,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,Belgium,18,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,Canada,37,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,China,650,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,France,12,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,Japan,64,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,Russia,5,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,South Korea,200,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,United States,0,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,Uzbekistan,1,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2023,World,990,estimated,2024,https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,Belgium,19,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,Canada,40,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,China,760,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,France,21,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,Japan,65,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,Russia,5,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,South Korea,180,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,United States,0,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,Uzbekistan,1,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2024,World,1090,published,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,Belgium,19,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,Canada,40,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,China,760,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,France,21,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,Japan,65,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,Russia,5,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,South Korea,180,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,United States,0,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,Uzbekistan,1,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
+Indium,refinery,2025,World,1100,estimated,2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf,USGS notes limited refinery data and use of estimates.
