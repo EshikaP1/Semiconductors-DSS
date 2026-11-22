@@ -1,0 +1,9 @@
+mineral,Primary production,Secondary production,Mine shipments,Government shipments,Imports,Exports,Stocks,Reported consumption,Apparent consumption,Unit value ($/t),Unit value (98$/t),World mine production,World refinery production,Production,World production,Estimated consumption,World production (gross weight),World production (lithium content),World production (lithium carbonate equivalent),Shipments,Mine production,Producer shipments,Government stocks,Industry stocks
+cobalt,78,65,50,80,100,66,60,65,100,100,100,99,44,0,0,0,0,0,0,0,0,0,0,0
+gallium,0,0,0,0,75,9,65,0,66,100,100,0,0,58,62,0,0,0,0,0,0,0,0,0
+germanium,0,0,0,0,88,28,47,0,85,100,100,0,0,72,82,0,0,0,0,0,0,0,0,0
+lithium,0,0,0,0,51,42,0,0,0,58,58,0,0,43,0,100,80,18,18,0,0,0,0,0
+silicon,0,0,0,0,100,59,59,0,67,100,100,0,0,67,59,0,0,0,0,62,0,0,0,0
+tantalum,0,66,0,100,100,100,32,0,100,100,100,0,0,0,92,0,0,0,0,0,81,39,0,0
+tin,67,68,0,65,100,88,0,0,100,100,100,0,0,0,96,0,0,0,0,0,0,0,34,75
+tungsten,86,48,0,86,92,86,68,53,94,100,100,0,0,0,96,0,0,0,0,0,0,0,0,0

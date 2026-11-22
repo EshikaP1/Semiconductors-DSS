@@ -1,0 +1,53 @@
+mineral,country,year,reserves_t,detail
+cobalt,United States,2025,70000.0,Reserves
+tantalum,China,2025,240000.0,Reserves
+tantalum,Russia,2025,150.0,Reserves
+tin,Australia,2025,570000.0,Reserves
+tin,Bolivia,2025,400000.0,Reserves
+tin,Brazil,2025,700000.0,Reserves
+tin,Burma,2025,700000.0,Reserves
+tin,China,2025,1200000.0,Reserves
+tin,Congo (Kinshasa),2025,91000.0,Reserves
+tin,Indonesia,2025,1400000.0,Reserves
+tin,Peru,2025,150000.0,Reserves
+tantalum,Brazil,2025,40000.0,Reserves
+tin,Russia,2025,460000.0,Reserves
+tin,Other countries,2025,310000.0,Reserves
+tin,World total,2025,6000000.0,Reserves: rounded
+tungsten,Australia,2025,570000.0,Reserves
+tungsten,Austria,2025,10000.0,Reserves
+tungsten,China,2025,2500000.0,Reserves
+tungsten,"Korea, North",2025,29000.0,Reserves
+tungsten,Portugal,2025,3400.0,Reserves
+tungsten,Russia,2025,400000.0,Reserves
+tungsten,Spain,2025,66000.0,Reserves
+tungsten,Vietnam,2025,170000.0,Reserves
+tin,Vietnam,2025,23000.0,Reserves
+tantalum,Australia,2025,120000.0,Reserves
+lithium,World total,2025,37000000.0,Reserves: rounded
+lithium,Other countries,2025,2400000.0,Reserves
+cobalt,Australia,2025,1700000.0,Reserves
+cobalt,Canada,2025,220000.0,Reserves
+cobalt,China,2025,160000.0,Reserves
+cobalt,Congo (Kinshasa),2025,6000000.0,Reserves
+cobalt,Cuba,2025,500000.0,Reserves
+cobalt,Indonesia,2025,760000.0,Reserves
+cobalt,Madagascar,2025,100000.0,Reserves
+cobalt,Papua New Guinea,2025,84000.0,Reserves
+cobalt,Philippines,2025,260000.0,Reserves
+cobalt,Russia,2025,800000.0,Reserves
+cobalt,Turkey,2025,91000.0,Reserves
+cobalt,Other countries,2025,780000.0,Reserves
+cobalt,World total,2025,12000000.0,Reserves: rounded
+lithium,United States,2025,4400000.0,Reserves
+lithium,Argentina,2025,4400000.0,Reserves
+lithium,Australia,2025,8400000.0,Reserves
+lithium,Brazil,2025,540000.0,Reserves
+lithium,Canada,2025,1600000.0,Reserves
+lithium,Chile,2025,9200000.0,Reserves
+lithium,China,2025,4600000.0,Reserves
+lithium,Mali,2025,370000.0,Reserves
+lithium,Portugal,2025,60000.0,Reserves
+lithium,Zimbabwe,2025,500000.0,Reserves
+tungsten,Other countries,2025,950000.0,Reserves
+tungsten,World total,2025,4700000.0,Reserves: rounded
