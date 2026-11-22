@@ -1,0 +1,47 @@
+{
+  "input_sha256": {
+    "final_trade_indicators.csv": "53086621aa5945dd9fd5c04c4fe9140f02e510506474a9907c46d8692f38b873",
+    "minerals_supply_demand.csv": "7d0762eeba4ecc2dc4b9935035b542bce2e421ea93d636a9a151f93960c4f6a4",
+    "tin_monthly_volatility.csv": "875b7f4a230552bcffc6fe7b4c22e9ee96d651e3c600843a4ea12aa466ce5b8b"
+  },
+  "annual_rows": 5,
+  "monthly_rows": 60,
+  "blank_cells_in_main_tables": 0,
+  "unavailable_official_reliance_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "numeric_imputation_count": 0,
+  "official_reliance_not_equal_to_proxy": true,
+  "annual_proxy_2025_pct": 72.44186046511628,
+  "annual_official_2025_pct": 77.0,
+  "selection_rules": [
+    "Exact tin mineral and exact refined detail; exclude alloys/scrap",
+    "Imports selected by detail because metric incorrectly says consumption",
+    "MCS2026 consumption preferred consistently; ds140 2021 apparent record not mixed",
+    "Broad chapter-26 Comtrade and all non-tin trade excluded",
+    "Missing official reliance retained as explicit unavailable label",
+    "Pooled 2021\u20132024 HHI remains in context file only"
+  ],
+  "competing_2021_ds140_consumption": [
+    {
+      "mineral": "tin",
+      "country": "United States",
+      "year": "2021",
+      "metric": "consumption",
+      "detail": "apparent",
+      "value_t": "47700.0",
+      "value_raw": "47700.0",
+      "unit_raw": "metric tons",
+      "source": "ds140"
+    }
+  ],
+  "limitations": [
+    "Five annual observations cannot establish causality or predictive performance",
+    "Price benchmark is not a verified semiconductor packaging price",
+    "Forward 3-month metric can extend into 2026 and is not the annual realized volatility measure",
+    "Historical revised MCS2026 quantities are descriptive, not point-in-time forecasting features"
+  ]
+}

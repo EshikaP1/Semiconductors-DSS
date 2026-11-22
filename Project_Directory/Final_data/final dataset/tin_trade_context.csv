@@ -1,0 +1,9 @@
+source,reporter_country,commodity,period_start,period_end,indicator,value,unit,status
+USGS MCS2026 Fig2,United States,"TIN, refined",2025,2025,import_reliance_exact,77.0,percent,exact
+USGS MCS2026 Fig2,United States,"TIN, refined",2025,2025,import_reliance_lower_bound,77.0,percent,exact
+USGS MCS2026 Fig2,United States,"TIN, refined",2025,2025,import_reliance_upper_bound,77.0,percent,exact
+USGS MCS2026 Fig3,United States,"Tin, refined",2021,2024,hhi_lower_bound,0.2015,fraction,bound_from_grouped_shares
+USGS MCS2026 Fig3,United States,"Tin, refined",2021,2024,hhi_upper_bound,0.23040000000000002,fraction,bound_from_grouped_shares
+USGS MCS2026 Fig3,United States,"Tin, refined",2021,2024,largest_named_supplier_share_pct,31.0,percent,available
+USGS MCS2026 Fig3,United States,"Tin, refined",2021,2024,named_supplier_count,4.0,count,reported_named_count_only
+USGS MCS2026 Fig3,United States,"Tin, refined",2021,2024,other_share_pct,17.0,percent,available
