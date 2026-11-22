@@ -1,0 +1,69 @@
+commodity,commodity_key,reporter_country,reference_year,reliance_raw,reliance_exact_pct,reliance_lower_bound_pct,reliance_upper_bound_pct,reliance_relation,major_sources_2021_2024,notes,source
+"ARSENIC, all forms","arsenic, all forms",United States,2025,100,100.0,100.0,100.0,exact,"China, Malaysia, Morocco",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+ASBESTOS,asbestos,United States,2025,100,100.0,100.0,100.0,exact,Brazil,Descending order of import share.,MCS2026
+CESIUM,cesium,United States,2025,100,100.0,100.0,100.0,exact,"China, Germany",Descending order of import share.,MCS2026
+FLUORSPAR,fluorspar,United States,2025,100,100.0,100.0,100.0,exact,"Mexico, Vietnam, China, South Africa",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+GALLIUM,gallium,United States,2025,100,100.0,100.0,100.0,exact,"Canada, Japan, China, Germany",Descending order of import share.,MCS2026
+GRAPHITE (NATURAL),graphite (natural),United States,2025,100,100.0,100.0,100.0,exact,"China, Canada, Mozambique, Mexico",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+INDIUM,indium,United States,2025,100,100.0,100.0,100.0,exact,"Republic of Korea, Japan, China, Canada",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+MANGANESE,manganese,United States,2025,100,100.0,100.0,100.0,exact,"Gabon, South Africa, Malaysia, Australia",Descending order of import share.,MCS2026
+"MICA (NATURAL), sheet","mica (natural), sheet",United States,2025,100,100.0,100.0,100.0,exact,"China, Vietnam, Brazil, India",Descending order of import share.,MCS2026
+NIOBIUM (COLUMBIUM),niobium (columbium),United States,2025,100,100.0,100.0,100.0,exact,"Brazil, Canada",Descending order of import share.,MCS2026
+RUBIDIUM,rubidium,United States,2025,100,100.0,100.0,100.0,exact,"China, Germany, Russia",Descending order of import share.,MCS2026
+SCANDIUM,scandium,United States,2025,100,100.0,100.0,100.0,exact,"Japan, China",Descending order of import share.,MCS2026
+STRONTIUM,strontium,United States,2025,100,100.0,100.0,100.0,exact,"Mexico, Germany, China",Descending order of import share.,MCS2026
+TANTALUM,tantalum,United States,2025,100,100.0,100.0,100.0,exact,"China, Australia, Germany, Indonesia",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"TITANIUM, sponge metal","titanium, sponge metal",United States,2025,100,100.0,100.0,100.0,exact,"Japan, Saudi Arabia, Kazakhstan",Descending order of import share.,MCS2026
+YTTRIUM,yttrium,United States,2025,100,100.0,100.0,100.0,exact,"China, Germany, Austria",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+GEMSTONES,gemstones,United States,2025,99,99.0,99.0,99.0,exact,"India, Israel, Belgium, South Africa",Descending order of import share.,MCS2026
+XENON,xenon,United States,2025,98,98.0,98.0,98.0,exact,NA,Descending order of import share.,MCS2026
+"ABRASIVES, fused aluminum oxide","abrasives, fused aluminum oxide",United States,2025,>95,,95.0,100.0,greater_than,"China, Canada, Brazil, Austria",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+NEPHELINE SYENITE,nepheline syenite,United States,2025,>95,,95.0,100.0,greater_than,Canada,Descending order of import share.,MCS2026
+KRYPTON,krypton,United States,2025,93,93.0,93.0,93.0,exact,NA,Descending order of import share.,MCS2026
+BISMUTH,bismuth,United States,2025,92,92.0,92.0,92.0,exact,"China, Republic of Korea, Germany",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+POTASH,potash,United States,2025,92,92.0,92.0,92.0,exact,"Canada, Russia, Israel",Descending order of import share.,MCS2026
+"ANTIMONY, metal and oxide","antimony, metal and oxide",United States,2025,91,91.0,91.0,91.0,exact,"China, Belgium, Thailand, India",Descending order of import share.,MCS2026
+PLATINUM,platinum,United States,2025,89,89.0,89.0,89.0,exact,"South Africa, Belgium, Germany, Italy",Descending order of import share.,MCS2026
+TITANIUM MINERAL CONCENTRATES,titanium mineral concentrates,United States,2025,88,88.0,88.0,88.0,exact,"South Africa, Canada, Madagascar, Mozambique",Descending order of import share.,MCS2026
+STONE (DIMENSION),stone (dimension),United States,2025,85,85.0,85.0,85.0,exact,"Brazil, Italy, China, India",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"IRON OXIDE PIGMENTS, natural and synthetic","iron oxide pigments, natural and synthetic",United States,2025,84,84.0,84.0,84.0,exact,"China, Germany, Brazil, Canada",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"DIAMOND (INDUSTRIAL), stones","diamond (industrial), stones",United States,2025,81,81.0,81.0,81.0,exact,"India, South Africa, Russia, Botswana",Descending order of import share.,MCS2026
+PEAT,peat,United States,2025,80,80.0,80.0,80.0,exact,Canada,Descending order of import share.,MCS2026
+"CHROMIUM, all forms","chromium, all forms",United States,2025,79,79.0,79.0,79.0,exact,"South Africa, Kazakhstan, Finland, Canada",Descending order of import share.,MCS2026
+COBALT,cobalt,United States,2025,79,79.0,79.0,79.0,exact,"Norway, Finland, Canada, Japan",Descending order of import share.,MCS2026
+SILVER,silver,United States,2025,77,77.0,77.0,77.0,exact,"Mexico, Canada, Chile, Turkey",Descending order of import share.,MCS2026
+"TIN, refined","tin, refined",United States,2025,77,77.0,77.0,77.0,exact,"Peru, Bolivia, Indonesia, Brazil",Descending order of import share.,MCS2026
+RHENIUM,rhenium,United States,2025,75,75.0,75.0,75.0,exact,"Chile, Canada, Germany, Poland",Descending order of import share.,MCS2026
+BARITE,barite,United States,2025,>75,,75.0,100.0,greater_than,"India, China, Morocco, Mexico",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+BAUXITE,bauxite,United States,2025,>75,,75.0,100.0,greater_than,"Jamaica, Turkey, Guyana, Australia",Descending order of import share.,MCS2026
+MAGNESIUM METAL,magnesium metal,United States,2025,>75,,75.0,100.0,greater_than,"Israel, Canada, Turkey, Czechia",Descending order of import share.,MCS2026
+"ABRASIVES, silicon carbide","abrasives, silicon carbide",United States,2025,74,74.0,74.0,74.0,exact,"China, Brazil",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"ZINC, refined","zinc, refined",United States,2025,73,73.0,73.0,73.0,exact,"Canada, Mexico, Peru, Republic of Korea",Descending order of import share.,MCS2026
+ALUMINA,alumina,United States,2025,71,71.0,71.0,71.0,exact,"Brazil, Jamaica, Australia, Canada",Descending order of import share.,MCS2026
+GARNET (INDUSTRIAL),garnet (industrial),United States,2025,71,71.0,71.0,71.0,exact,"South Africa, Australia, China, India",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"RARE EARTHS, compounds and metals","rare earths, compounds and metals",United States,2025,67,67.0,67.0,67.0,exact,"China, Malaysia, Estonia, Japan","Descending order of import share. Includes lanthanides cerium, dysprosium, erbium, europium, gadolinium, holmium, lanthanum, lutetium, neodymium, praseodymium, samarium, terbium, thulium, and ytterbium. Imports from Hong Kong are included with China.",MCS2026
+ALUMINUM,aluminum,United States,2025,60,60.0,60.0,60.0,exact,"Canada, United Arab Emirates, Bahrain, China",Descending order of import share.,MCS2026
+MAGNESIUM COMPOUNDS,magnesium compounds,United States,2025,59,59.0,59.0,59.0,exact,"China, Brazil, Canada, Israel",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"COPPER, refined","copper, refined",United States,2025,57,57.0,57.0,57.0,exact,"Chile, Canada, Peru, Mexico",Descending order of import share.,MCS2026
+PALLADIUM,palladium,United States,2025,57,57.0,57.0,57.0,exact,"South Africa, Russia, Belgium, Canada",Descending order of import share.,MCS2026
+NEON,neon,United States,2025,52,52.0,52.0,52.0,exact,NA,Descending order of import share.,MCS2026
+GERMANIUM,germanium,United States,2025,>50,,50.0,100.0,greater_than,"Belgium, China, Canada, Germany",Descending order of import share.,MCS2026
+LITHIUM,lithium,United States,2025,>50,,50.0,100.0,greater_than,"Chile, Argentina",Descending order of import share.,MCS2026
+SELENIUM,selenium,United States,2025,>50,,50.0,100.0,greater_than,"Philippines, Mexico, Chile, Poland",Descending order of import share.,MCS2026
+"SILICON, metal and ferrosilicon","silicon, metal and ferrosilicon",United States,2025,>50,,50.0,100.0,greater_than,"Brazil, Canada, Russia, Malaysia",Descending order of import share.,MCS2026
+TUNGSTEN,tungsten,United States,2025,>50,,50.0,100.0,greater_than,"China, Germany, Bolivia, Vietnam",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+IODINE,iodine,United States,2025,<50,,0.0,50.0,less_than,"Chile, Japan",Descending order of import share.,MCS2026
+NICKEL,nickel,United States,2025,41,41.0,41.0,41.0,exact,"Canada, Norway, Australia, Brazil",Descending order of import share.,MCS2026
+VANADIUM,vanadium,United States,2025,41,41.0,41.0,41.0,exact,"Canada, Brazil, South Africa, Austria",Descending order of import share.,MCS2026
+"DIAMOND (INDUSTRIAL), bort, grit, and dust and powder","diamond (industrial), bort, grit, and dust and powder",United States,2025,35,35.0,35.0,35.0,exact,"China, Republic of Korea, Ireland",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"MICA (NATURAL), scrap and flake","mica (natural), scrap and flake",United States,2025,34,34.0,34.0,34.0,exact,"China, Canada, India, Finland ",Descending order of import share.,MCS2026
+"LEAD, refined","lead, refined",United States,2025,33,33.0,33.0,33.0,exact,"Canada, Republic of Korea, Ireland",Descending order of import share.,MCS2026
+SALT,salt,United States,2025,31,31.0,31.0,31.0,exact,"Mexico, Chile, Canada, Egypt",Descending order of import share.,MCS2026
+TELLURIUM,tellurium,United States,2025,>25,,25.0,100.0,greater_than,"Canada, Philippines, Japan, Germany",Descending order of import share.,MCS2026
+VERMICULITE,vermiculite,United States,2025,25,25.0,25.0,25.0,exact,"South Africa, Brazil, Zimbabwe, Uganda",Descending order of import share.,MCS2026
+BROMINE,bromine,United States,2025,<25,,0.0,25.0,less_than,"Israel, Jordan, China",Descending order of import share.,MCS2026
+CADMIUM,cadmium,United States,2025,<25,,0.0,25.0,less_than,"China, Germany, Australia, Peru",Descending order of import share. Imports from Hong Kong are included with China.,MCS2026
+"ZIRCONIUM, ores and concentrates","zirconium, ores and concentrates",United States,2025,<25,,0.0,25.0,less_than,"South Africa, Australia, Senegal",Descending order of import share.,MCS2026
+PERLITE,perlite,United States,2025,23,23.0,23.0,23.0,exact,"Greece, China",Descending order of import share.,MCS2026
+TALC,talc,United States,2025,22,22.0,22.0,22.0,exact,"Pakistan, Canada, China",Descending order of import share.,MCS2026
+CEMENT,cement,United States,2025,21,21.0,21.0,21.0,exact,"Turkey, Canada, Vietnam, Greece",Descending order of import share.,MCS2026
