@@ -1,0 +1,9 @@
+mineral,table_start,table_end,observed_months,missing_months_in_table,first_observation,last_observation,missing_between_first_and_last,coverage_note
+Cobalt,1960-01-01,2026-10-01,0,802,,,,USGS annual only in assigned sources
+Gallium,1960-01-01,2026-10-01,0,802,,,,USGS annual only in assigned sources
+Germanium,1960-01-01,2026-10-01,0,802,,,,USGS annual only in assigned sources
+Lithium,1960-01-01,2026-10-01,0,802,,,,USGS annual only in assigned sources
+Silicon,1960-01-01,2026-10-01,0,802,,,,USGS annual only in assigned sources
+Tantalum,1960-01-01,2026-10-01,0,802,,,,USGS annual only in assigned sources
+Tin,1960-01-01,2026-10-01,802,0,1960-01-01,2026-10-01,0,World Bank monthly benchmark
+Tungsten,1960-01-01,2026-10-01,0,802,,,,USGS annual only in assigned sources
