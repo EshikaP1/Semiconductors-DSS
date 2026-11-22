@@ -1,0 +1,9 @@
+mineral,cmo_unit,monthly_observations,first_month,last_month,months_without_price,usgs_first_year,usgs_last_year,usgs_numeric_records,usgs_missing_records,usgs_distinct_series,coverage
+Cobalt,,0,,,802,2021,2025,10,0,2,Annual only
+Gallium,,0,,,802,2021,2025,5,0,1,Annual only
+Germanium,,0,,,802,2021,2025,10,0,2,Annual only
+Lithium,,0,,,802,2021,2025,5,0,1,Annual only
+Silicon,,0,,,802,2021,2025,11,4,3,Annual only
+Tantalum,,0,,,802,2021,2025,5,0,1,Annual only
+Tin,($/mt),802,1960-01,2026-10,0,2021,2025,10,0,2,Monthly + annual
+Tungsten,,0,,,802,2021,2025,5,0,1,Annual only
